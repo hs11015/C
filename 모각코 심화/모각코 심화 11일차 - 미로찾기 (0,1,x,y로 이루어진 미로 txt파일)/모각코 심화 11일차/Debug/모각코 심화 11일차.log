@@ -1,0 +1,4 @@
+﻿  header.c
+C:\Users\김현서\source\repos\모각코 심화 11일차\모각코 심화 11일차\header.c(10,23): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[20]'과(와) 다릅니다.
+C:\Users\김현서\source\repos\모각코 심화 11일차\모각코 심화 11일차\header.c(10,18): warning C4024: 'fopen': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  모각코 심화 11일차.vcxproj -> C:\Users\김현서\source\repos\모각코 심화 11일차\Debug\모각코 심화 11일차.exe
