@@ -1,0 +1,5 @@
+﻿  난이도상.c
+C:\Users\김현서\source\repos\모각코 아이 두 C 8일차\모각코 아이 두 C 8일차\난이도상.c(15,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김현서\source\repos\모각코 아이 두 C 8일차\모각코 아이 두 C 8일차\난이도상.c(84,5): warning C4033: 'calculation'은(는) 값을 반환해야 합니다.
+C:\Users\김현서\source\repos\모각코 아이 두 C 8일차\모각코 아이 두 C 8일차\난이도상.c(85): warning C4716: 'calculation': 값을 반환해야 합니다.
+  모각코 아이 두 C 8일차.vcxproj -> C:\Users\김현서\source\repos\모각코 아이 두 C 8일차\Debug\모각코 아이 두 C 8일차.exe

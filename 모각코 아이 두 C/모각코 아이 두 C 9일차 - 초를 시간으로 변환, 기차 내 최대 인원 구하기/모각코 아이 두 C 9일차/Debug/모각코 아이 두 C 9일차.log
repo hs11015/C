@@ -1,0 +1,3 @@
+﻿  난이도상.c
+C:\Users\김현서\source\repos\모각코 아이 두 C 9일차\모각코 아이 두 C 9일차\난이도상.c(23,17): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  모각코 아이 두 C 9일차.vcxproj -> C:\Users\김현서\source\repos\모각코 아이 두 C 9일차\Debug\모각코 아이 두 C 9일차.exe
