@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "모각코 아이 두 C 12일차", "모각코 아이 두 C 12일차\모각코 아이 두 C 12일차.vcxproj", "{E3CB32AA-ABD3-409E-9401-CB2BFB88827B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3CB32AA-ABD3-409E-9401-CB2BFB88827B}.Debug|x64.ActiveCfg = Debug|x64
+		{E3CB32AA-ABD3-409E-9401-CB2BFB88827B}.Debug|x64.Build.0 = Debug|x64
+		{E3CB32AA-ABD3-409E-9401-CB2BFB88827B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3CB32AA-ABD3-409E-9401-CB2BFB88827B}.Debug|x86.Build.0 = Debug|Win32
+		{E3CB32AA-ABD3-409E-9401-CB2BFB88827B}.Release|x64.ActiveCfg = Release|x64
+		{E3CB32AA-ABD3-409E-9401-CB2BFB88827B}.Release|x64.Build.0 = Release|x64
+		{E3CB32AA-ABD3-409E-9401-CB2BFB88827B}.Release|x86.ActiveCfg = Release|Win32
+		{E3CB32AA-ABD3-409E-9401-CB2BFB88827B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A536534-F83B-4A81-B4A4-748A70ADAC7D}
+	EndGlobalSection
+EndGlobal
